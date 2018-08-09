@@ -1,0 +1,11 @@
+from turtle import forward, right, left, shape, exitonclick
+forward(70)
+left(90)
+forward(40)
+left(90)
+forward(70)
+left(90)
+forward(40)
+left(90)
+shape("turtle")
+exitonclick()
